@@ -1,6 +1,6 @@
-# ChatWithFirebase
+# Chat With Firebase
 
-### What we used in this project
+### What I used in this project
 
 - authentication
 
